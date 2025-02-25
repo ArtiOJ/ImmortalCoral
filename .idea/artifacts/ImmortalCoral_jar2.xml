@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ImmortalCoral:jar2">
+    <output-path>$PROJECT_DIR$/../../../../Other/Paper Servers/The Limaverse/PLUGIN_BACKUPS</output-path>
+    <root id="archive" name="ImmortalCoral.jar">
+      <element id="module-output" name="ImmortalCoral" />
+    </root>
+  </artifact>
+</component>

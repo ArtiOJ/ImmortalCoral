@@ -1,0 +1,4 @@
+name: ImmortalCoral
+version: '1.0-SNAPSHOT'
+main: org.limaverse.immortalCoral.ImmortalCoral
+api-version: '1.21'
